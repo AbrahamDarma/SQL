@@ -1,2 +1,3 @@
 # SQL
-This Repository hold the codes for all SQL related project
+This Repository hold all SQL related project
+Using Microsoft SQL Server
